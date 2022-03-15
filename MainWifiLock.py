@@ -1,6 +1,9 @@
 import ctypes
 import time
 import subprocess
+
+print("hello")
+
 t = 0
 while t == 0:
     print("Starting Everything")
